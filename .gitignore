@@ -1,0 +1,28 @@
+# .NET
+bin/
+obj/
+appsettings.json
+*.user
+*.userosscache
+*.sln.doccache
+
+# Node
+node_modules/
+.expo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+.idea/
+.vscode/
+*.swp
+*.lock
+*.log
+
+# Sensitive
+.env
+.env.local
+.expo-shared/
+dist/
+web-build/
